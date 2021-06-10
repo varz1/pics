@@ -1,2 +1,2 @@
 # pics
-my blog Picture bed
+一个图床
