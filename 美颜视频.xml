@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline resWidth="996" resHeight="448" duration="18630000" sizeLevel="448" nvenc="true" encoderMode="cbr" encoderType="H.264" outputType="mp4">
+	<videoTracks>
+		<videoTrack>
+			<videos>
+				<video path="https://img.panic.ltd/file/1167cf8331a4d75f57e92.mp4" inPoint="0" outPoint="18630000" trimIn="0" trimOut="18630000">
+					<videoFxs>
+						<videoFx index="0" type="compoundPackage" id="E1A71E19-8B00-4B11-A9A2-FF4A55F2E2CE"/>
+					</videoFxs>
+				</video>
+			</videos>
+		</videoTrack>
+	</videoTracks>
+</timeline>
